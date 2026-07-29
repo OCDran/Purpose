@@ -10,7 +10,7 @@ The root `AGENTS.md` guides Agents authoring the Purpose project. `Workspace/AGE
 
 ## Configuration
 
-- `Config/PURPOSE.md`: The goal the Being is trying to achieve.
+- `Config/PURPOSE.md`: The goal the Being is trying to achieve. It is used only via `$purpose-unattend`.
 - `Config/IDENTITY.md`: The Being's base views about itself.
 - `Config/REASONING.md`: The Being's base thinking and problem-solving strategies, including non-deliberative methods such as instincts.
 - `Config/SOURCES.md`: The Being's strategies for choosing information sources and operating principles, from faith-based to factual.

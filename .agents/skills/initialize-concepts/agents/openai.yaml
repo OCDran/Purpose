@@ -1,0 +1,4 @@
+interface:
+  display_name: "Initialize Concepts"
+  short_description: "Reset all base Concept files to blank"
+  default_prompt: "Use $initialize-concepts to reset all base Concept files to blank."

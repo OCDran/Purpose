@@ -1,0 +1,7 @@
+interface:
+  display_name: "Purpose Unattend"
+  short_description: "Start a task from the configured Purpose"
+  default_prompt: "Use $purpose-unattend to begin a task that advances the configured Purpose."
+
+policy:
+  allow_implicit_invocation: false

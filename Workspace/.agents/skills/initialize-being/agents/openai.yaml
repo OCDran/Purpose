@@ -1,0 +1,4 @@
+interface:
+  display_name: "Initialize Being"
+  short_description: "Reset BEING.md to its blank Concept structure"
+  default_prompt: "Use $initialize-being to reset BEING.md to its blank Concept structure."
